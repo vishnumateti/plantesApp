@@ -4,12 +4,10 @@
   background-size: cover;
   width: 100%;
   height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  padding: 50px;
 }
 .planets {
   color: #05acff;
   font-family: 'Roboto';
+  text-align: center;
 }
